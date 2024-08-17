@@ -11,6 +11,9 @@ import entities.Employee;
 public class Program {
 
 	public static void main(String[] args) {
+
+		//Quem criou esse conceito de lista tem uma vida mt feliz. 
+		//Tem que escrever um manifesto do partido comunista pra fazer UM pedido no heap
 		
 		/* Fazer um programa para ler um número inteiro N e 
 		 * depois os dados (id, nome e salario) de N funcionários. 
